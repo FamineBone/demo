@@ -11,6 +11,5 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("Hello GitHub");
         System.out.println("Hello Gitee");
-        System.out.println("-------------");
     }
 }
